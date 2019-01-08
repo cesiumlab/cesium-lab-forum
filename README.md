@@ -5,4 +5,4 @@ CesiumLab论坛
 
 浏览目前的bug和需求列表，请点击此处：[这里](https://github.com/cesiumlab/cesium-lab-forum/issues)
 
-
+![使用说明](./使用说明.png)
