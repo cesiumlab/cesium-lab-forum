@@ -1,4 +1,8 @@
 # CesiumLab论坛
 CesiumLab论坛
 
-请您移步[这里](https://github.com/cesiumlab/cesium-lab-forum/issues)，提交遇到的问题，或者讨论帖。
+提bug、提新需求，请点击[这里](https://github.com/cesiumlab/cesium-lab-forum/issues/new)
+
+浏览目前的bug和需求列表，请点击此处：[这里](https://github.com/cesiumlab/cesium-lab-forum/issues)
+
+
